@@ -15,6 +15,3 @@
 </div>
 <!-- 2nd -->
 <div style="display:flex;justify-content: space-around;vertical-align:bottom;color:#ced6d3;background:#;margin-top:-25px;z-index:2;position:relative;font-weight:200;border-radius:0 0 3px 3px;padding:7px" class="plainlinks">
-<div style="display: inline-block; padding: 5px; background: rgba(9, 26, 40); box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25); border-radius: 5px; font-weight: bold; font-family: Rubik; font-size: 17px; color: #fff;"> [[File:Site-logo.png|20px|link=]] <span style="color:#fff">[[:eshelp:Muro:Tormenta934|Muro de mensajes]]</span></div>
-</div>
-</div>
