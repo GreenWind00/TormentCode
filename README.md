@@ -1,7 +1,7 @@
 <div style="display:flex">
 <!-- Intro -->
 <div style="padding:22.5px 45px">
-<h2 style="unset:all !important;border:0;margin:0 0;font-size:50px;letter-spacing:.5px;line-height:50px">'''TORMENTCODE_.'''</h2><span style="color:#00835c"></span><!-- Line -->
+<h2 style="unset:all !important;border:0;margin:0 0;font-size:50px;letter-spacing:.5px;line-height:50px">'TORMENTCODE_'</h2><span style="color:#00835c"></span><!-- Line -->
 <div style="width:100%;height:4px;background:#00835c;margin-top:-10px;margin-bottom:10px;"></div>
 <!-- Bio -->
 
